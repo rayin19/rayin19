@@ -18,16 +18,15 @@
 
 <a href="mailto:shrey163@gmail.com">
   <kbd>
-  <img align="centre" alt="shrey's gmail" width="22px" src="![Gmail_icon_(2020) svg](https://github.com/rayin19/rayin19/assets/41195382/ce120bf2-a72f-4cf4-8000-9e477dfdb546)
-" />
+  <img align="centre" alt="shrey's Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
 <br/>
 <br/>
 
 - 🏢 I am a Software Engineer at American Express
+- 💻 3 years of experience in developing innovative tools and systems. 
 - 🏫 2020 B.Tech. graduate from PEC
-- 💻 Former SDE Intern at Qualcomm, India
 - 🙋‍ More about me: Visit my [website](https://rayin19.github.io/)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/shrey-s-b4237716a/)
-- 👯 Pronouns: She/Her
+- 👯 Pronouns: He/Him
