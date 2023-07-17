@@ -5,7 +5,11 @@
 ###### Glad to see you here :heart:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayin19&label=Views&color=blue&style=plastic" alt="rayin19" /> </p>
- 
+
+ <a href="https://rayin19.github.io//">
+  <kbd>
+  <img align="centre" alt="shrey's Portfolio" width="22px" src="!https://github.com/rayin19/rayin19/assets/41195382/f6c5bcfc-4782-4a11-bdf4-25ac3e3135e3" />
+</a>
 <a href="https://www.linkedin.com/in/shrey-s-b4237716a/">
   <kbd>
   <img align="centre" alt="shrey's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
