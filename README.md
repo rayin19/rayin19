@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayin19&label=Views&color=blue&style=plastic" alt="rayin19" /> </p>
 
  <a href="https://rayin19.github.io//">
-  <kbd>
-  <img align="centre" alt="shrey's Portfolio" width="22px" src="!https://github.com/rayin19/rayin19/assets/41195382/f6c5bcfc-4782-4a11-bdf4-25ac3e3135e3" />
+  <img align="centre" alt="shrey's Portfolio" width="30px" src="https://github.com/rayin19/rayin19/assets/41195382/5f95f7e4-150c-4329-9030-a5aae79a3599"
+ />
 </a>
 <a href="https://www.linkedin.com/in/shrey-s-b4237716a/">
   <kbd>
