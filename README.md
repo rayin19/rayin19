@@ -8,7 +8,7 @@
 
  <a href="https://rayin19.github.io//">
   <kbd>
-  <img align="centre" alt="shrey's Portfolio" width="30px" src="https://github.com/rayin19/rayin19/assets/41195382/5f95f7e4-150c-4329-9030-a5aae79a3599"/>
+  <img align="centre" alt="shrey's Portfolio" width="30px" src="https://github.com/rayin19/rayin19/blob/main/Logo.png"/>
 </a>
 <a href="https://www.linkedin.com/in/shrey-s-b4237716a/">
   <kbd>
