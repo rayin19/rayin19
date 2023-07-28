@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayin19&label=Views&color=blue&style=plastic" alt="rayin19" /> </p>
 
- <a href="https://rayin19.github.io//">
+ <a href="https://rayin19.github.io/">
   <kbd>
   <img align="centre" alt="shrey's Portfolio" width="22px" src="https://github.com/rayin19/rayin19/blob/main/AdditionalLogos/Logo.png"/>
 </a>
