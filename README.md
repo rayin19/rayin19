@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayin19&label=Views&color=blue&style=plastic" alt="rayin19" /> </p>
 
- <a href="https://rayin19.github.io/">
+ <a href="https://shrey-suri.github.io/">
   <kbd>
-  <img align="centre" alt="shrey's Portfolio" width="22px" src="https://github.com/rayin19/rayin19/blob/main/AdditionalLogos/Logo.png"/>
+  <img align="centre" alt="shrey's Portfolio" width="22px" src="https://github.com/shrey-suri/shrey-suri/blob/main/AdditionalLogos/Logo.png"/>
 </a>
 <a href="https://www.linkedin.com/in/shrey-suri/">
   <kbd>
