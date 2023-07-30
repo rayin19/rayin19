@@ -31,6 +31,6 @@
 - 🏢 I am a Software Engineer at American Express
 - 💻 3 years of experience in developing innovative tools and systems. 
 - 🏫 2020 B.Tech. graduate from PEC
-- 🙋‍ More about me: Visit my [website](https://rayin19.github.io/)
+- 🙋‍ More about me: Visit my [website](https://shrey-suri.github.io/)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/shrey-s-b4237716a/)
 - 👯 Pronouns: He/Him
